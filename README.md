@@ -2,10 +2,6 @@
 
 A complete backend for a simple online shopping platform with **authentication**, **role-based access control**, **product management**, **shopping cart**, and **order processing**. Built with Node.js, Express, and MySQL.
 
-**Assignment for**: AppifyDevs  
-**Deadline**: Feb 12, 2026  
-**Status**: ✅ Complete
-
 ---
 
 ## 📋 Contents
